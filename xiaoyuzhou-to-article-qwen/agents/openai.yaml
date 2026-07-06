@@ -1,0 +1,7 @@
+interface:
+  display_name: "小宇宙播客整理 Qwen 版"
+  short_description: "小宇宙下载、通义听悟转写与结构化播客笔记"
+  default_prompt: "Use $xiaoyuzhou-to-article-qwen to turn this Xiaoyuzhou episode link into a transcript and structured Markdown notes."
+
+policy:
+  allow_implicit_invocation: true
